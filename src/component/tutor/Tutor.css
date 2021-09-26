@@ -1,0 +1,17 @@
+.tutor-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+   
+  
+}
+.tutorcart{
+    border-left: 1px solid lightgray;
+}
+.tutorlist{
+   display: grid; 
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-gap: 10px;
+   
+   /* box-shadow: 0px 0px 40px rgba(184, 56, 56, 0.15); */
+   
+}

@@ -1,0 +1,82 @@
+[
+    {
+      "name": "asif iqbal",
+      "district": "sylhet",
+      "age": 24,
+      "university": "sahjalal university of science and techenology",
+      "sallery": 6000,
+      "img": "https://image.shutterstock.com/image-photo/young-confident-handsome-man-full-260nw-1416442523.jpg"
+    },
+    {
+      "name": "ahnaf sahriar",
+      "district": "sylhet",
+      "age": 25,
+      "university": "sahjalal university of science and techenology",
+      "sallery": 7000,
+      "img": "https://image.shutterstock.com/image-photo/portrai…l-handsome-attractive-virile-260nw-1116273677.jpg"
+    },
+    {
+      "name": "sayem ahmed",
+      "district": "sylhet",
+      "age": 24,
+      "university": "sahjalal university of science and techenology",
+      "sallery": 5000,
+      "img": "https://image.shutterstock.com/image-photo/asian-business-man-wearing-suit-260nw-1612919515.jpg"
+    },
+    {
+      "name": "fozle rabbi",
+      "district": "sylhet",
+      "age": 29,
+      "university": "sahjalal university of science and techenology",
+      "sallery": 5000,
+      "img": "https://cdn.xxl.thumbs.canstockphoto.com/young-bus…uit-with-arms-crossed-stock-photos_csp7985773.jpg"
+    },
+    {
+      "name": "kawsar ahmed",
+      "district": "sylhet",
+      "age": 22,
+      "university": "sahjalal university of science and techenology",
+      "sallery": 4000,
+      "img": "https://image.shutterstock.com/image-photo/young-confident-handsome-man-full-260nw-1416442523.jpg"
+    },
+    {
+      "name": "suhel ahmed",
+      "district": "sylhet",
+      "age": 23,
+      "university": "sahjalal university of science and techenology",
+      "sallery": 7000,
+      "img": "https://image.shutterstock.com/image-photo/portrai…l-handsome-attractive-virile-260nw-1116273677.jpg"
+    },
+    {
+      "name": "ayman al sadiq",
+      "district": "sylhet",
+      "age": 27,
+      "university": "sahjalal university of science and techenology",
+      "sallery": 3000,
+      "img": "https://image.shutterstock.com/image-photo/asian-business-man-wearing-suit-260nw-1612919515.jpg"
+    },
+    {
+      "name": "jawad abdullah",
+      "district": "sylhet",
+      "age": 24,
+      "university": "sahjalal university of science and techenology",
+      "sallery": 6000,
+      "img": "https://cdn.xxl.thumbs.canstockphoto.com/young-bus…uit-with-arms-crossed-stock-photos_csp7985773.jpg"
+    },
+    {
+      "name": "nawaf nasrullah",
+      "district": "sylhet",
+      "age": 221,
+      "university": "sahjalal university of science and techenology",
+      "sallery": 9000,
+      "img": "https://image.shutterstock.com/image-photo/young-confident-handsome-man-full-260nw-1416442523.jpg"
+    },
+    {
+      "name": "shahid ali",
+      "district": "sylhet",
+      "age": 22,
+      "university": "sahjalal university of science and techenology",
+      "sallery": 8000,
+      "img": "https://image.shutterstock.com/image-photo/portrai…l-handsome-attractive-virile-260nw-1116273677.jpg"
+    }
+  ]
