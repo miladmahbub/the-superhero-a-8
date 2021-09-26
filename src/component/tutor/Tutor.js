@@ -29,14 +29,15 @@ const Tutor = () => {
               {
                   tutors.map(tutor =><Teacher
                   Tutor={tutor}
-                  key={tutor.name}
+                  key={tutor.age}
                   tutoraddtocart={tutoraddtocart}
                   ></Teacher>)
               }
             </div>
             <div className='tutorcart'>
-                <h1>Total Tutor: {tutors.length}</h1>
-                <Tutorcart tutorhired={tutorhire}></Tutorcart>
+                <h1>Total Tutor summary</h1>
+                <Tutorcart tutorhired={tutorhire}>
+                 </Tutorcart>
                 
 
             </div>
